@@ -1,0 +1,16 @@
+.container{
+    display: flex;
+}
+.wrapper{
+    margin: 30px;
+    border: 1px solid blue;
+    display: flex;
+    justify-items: center;
+}
+.btn{
+    display: flex;
+    justify-content: end;
+    /* padding-left: 40px */
+    margin-right: 60px;
+    
+}
